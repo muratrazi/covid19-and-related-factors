@@ -8,7 +8,7 @@ Affiliation: Computational Intelligence Group (UPV/EHU)
 **
 https://zenodo.org/records/19404440
 
-**You can access the article about the code via the following link.** 
+**You can access the related article via the following link.** 
 https://www.mdpi.com/2673-3986/7/2/50
 
 1. OVERVIEW
