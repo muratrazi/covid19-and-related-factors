@@ -8,6 +8,9 @@ Affiliation: Computational Intelligence Group (UPV/EHU)
 **
 https://zenodo.org/records/19404440
 
+**You can access the article about the code via the following link.** 
+https://www.mdpi.com/2673-3986/7/2/50
+
 1. OVERVIEW
 This project is a comprehensive MATLAB study analyzing 20 key macroscopic variables affecting COVID-19 mortality rates across 174 countries. To ensure the robustness of the findings, the study utilizes two distinct mortality metrics:
 1. Reported Deaths: Official deaths per million people (averages.mat).
